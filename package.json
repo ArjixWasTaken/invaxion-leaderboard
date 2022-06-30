@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "cloudflare-workers-rest-api-example",
+    "name": "invaxion-leaderboard",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -10,6 +10,6 @@
     "author": "ArjixWasTaken",
     "license": "MIT",
     "repository": {
-        "url": "https://github.com/ArjixWasTaken/cloudflare-workers-rest-api-example"
+        "url": "https://github.com/ArjixWasTaken/invaxion-leaderboard"
     }
 }
